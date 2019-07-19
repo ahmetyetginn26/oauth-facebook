@@ -1,0 +1,11 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          facebook:
+            client-id: 207053770246393
+            client-secret: 90019b1b652bb91bd9bd323a8918a355
+            scope:
+              - user_posts
+              - email
