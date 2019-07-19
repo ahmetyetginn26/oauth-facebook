@@ -9,7 +9,6 @@ target/
 .settings
 .springBeans
 
-.mvn
 ### IntelliJ IDEA ###
 .idea
 *.iws
